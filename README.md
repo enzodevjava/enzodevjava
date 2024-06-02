@@ -21,11 +21,11 @@
 
 ## Contact
 
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/enzodevjava" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-enzodevjava-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/enzohkss" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-enzodevjava-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 
