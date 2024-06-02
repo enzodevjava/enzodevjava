@@ -28,6 +28,7 @@
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
+
 Desenvolvedor apaixonado por tecnologia, sempre em busca de novas soluções e inovação contínua.
 
 
