@@ -29,7 +29,7 @@
 </a>
 
 
-Desenvolvedor apaixonado por tecnologia, sempre em busca de novas soluções e inovação contínua.
+
 
 
 
