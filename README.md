@@ -27,6 +27,9 @@
 <a href="https://instagram.com/enzohkss" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-enzodevjava-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<a href="https://instagram.com/enzohkss" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-enzodevjava@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
 
 
 
