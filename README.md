@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou o Enzo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzodevjava&color=yellow" alt="Profile views" /> </p>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">! Eu sou o Enzo</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=enzodevjava&color=yellow" alt="Profile views" /> </p>
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -24,7 +24,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=enzodevjava&show_icons=true&theme=vision-friendly-dark" alt="enzodevjava's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzodevjava&layout=compact&theme=vision-friendly-dark" alt="enzodevjava's most languages"/>
 </p>
